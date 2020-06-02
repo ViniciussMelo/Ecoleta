@@ -1,0 +1,8 @@
+npm install typescript -D
+npm install ts-node -D
+npm install ts-node-dev -D
+
+npx tsc --init: Arquivo de configuração do typescript
+
+
+npx ts-node src/server.ts: Iniciar aplicação typescript
