@@ -1,0 +1,2 @@
+Exportando imagem pro mobile:
+Exportar no tamanho original, 2x e 3x
