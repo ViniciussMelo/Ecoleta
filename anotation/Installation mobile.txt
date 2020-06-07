@@ -7,3 +7,4 @@ expo install expo-constants
 npm install react-native-svg
 npm install axios
 expo install expo-location
+expo install expo-mail-composer
