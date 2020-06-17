@@ -1,0 +1,7 @@
+- display
+block: pega a linha inteira
+inline: pega só a parte que o elemento ocupa
+flex: um elemento do lado do outro
+
+margin:
+Ex: 1 elemento top/bottom 2 elemento left e right
